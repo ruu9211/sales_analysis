@@ -2,8 +2,7 @@
 
 ## 📌 Project Overview
 
-This project explores sales transaction data through a Tableau dashboard.  
-The goal was to provide actionable insights into revenue performance, customer demographics, and discounting trends for a multinational corporation.
+This project explores sales transaction data through a Tableau dashboard. The goal was to provide actionable insights into revenue performance, customer demographics, and discounting trends for a multinational corporation.
 
 ---
 
@@ -24,8 +23,8 @@ The Tableau dashboard includes the following views:
 - 📍 **Revenue by State** – Geographic breakdown of sales across regions.  
 - 👥 **Revenue by Age** – Customer demographic insights by age groups.  
 - 🚻 **Revenue by Gender & Category** – Comparison of sales patterns across gender and product categories.  
-- 🥧 **% Revenue by Region (Donut Chart)** – Proportional breakdown of revenue contributions by region.  
-- 🔄 **Discount vs. Order Quantity (Scatter Plot)** – Analysis of how discounts impact order size.  
+- 🥧 **% Revenue by Region** – Proportional breakdown of revenue contributions by region.  
+- 🔄 **Discount vs. Order Quantity** – Analysis of how discounts impact order size.  
 
 ---
 
@@ -41,5 +40,4 @@ The Tableau dashboard includes the following views:
 - **Tableau** → for interactive data visualization  
 - **Dataset** → A structured sales transactions dataset shared for analysis.  
 
-⚠️ Note: The dataset is **not publicly available** as it was provided privately.  
-For that reason, I am unable to share a download link.  
+⚠️ Note: The dataset is **not publicly available** as it was provided privately. For that reason, I am unable to share a download link.  
